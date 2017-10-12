@@ -15,6 +15,7 @@ Lets create a crowdsourced 'Awesome List' of companies to contact when looking f
 | 🎗️ | [Stripe](https://stripe.com/) | The new standard in online payments.         |
 | 🎗️ | [OPHosting](https://www.ophosting.io/) | Get your Website hosted by OPHosting         |
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
+| 🎗️ | [Nexmo](https://www.nexmo.com/) | APIs for SMS, Voice and Phone Verifications.        |
 
 
 ## License
