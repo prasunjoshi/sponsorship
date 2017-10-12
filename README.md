@@ -16,7 +16,9 @@ Lets create a crowdsourced 'Awesome List' of companies to contact when looking f
 | 🎗️ | [OPHosting](https://www.ophosting.io/) | Get your Website hosted by OPHosting         |
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
 | 🎗️ | [Nexmo](https://www.nexmo.com/) | APIs for SMS, Voice and Phone Verifications.        |
-| 🎗️ | [Esri](https://www.esri.com/en-us/home/) | GIS Mapping Software, Spatial Data Analytics & Location Platform        |
+| 🎗️ | [Esri](https://www.esri.com/en-us/home/) | GIS Mapping Software, Spatial Data Analytics & Location Platform.       |
+| 🎗️ | [Verisign](https://www.verisign.com/) | Global Leader in Domain Names & Internet Security.       |
+
 
 
 ## License
